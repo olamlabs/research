@@ -32,13 +32,17 @@ Olam Labs builds simulated multi-agent environments where people and AI agents p
 
 ### Om Buddhdev
 
-Om Buddhdev (online alias sensho) is the CEO and co-founder of Olam Labs (Y Combinator S26), a research lab building multi-agent simulated environments and public arenas that measure social intelligence in AI models. He was previously a staff engineer at Latitude.io, the company behind AI Dungeon and Voyage, published agent-assisted progress on Erdős problem 872, and was a top-25 Valorant player in North America.
+Om Buddhdev (online alias sensho) is the CEO and co-founder of Olam Labs (Y Combinator S26), a research lab building multi-agent simulated environments and public arenas that measure social intelligence in AI models. He is self-taught, and left the University of Ottawa after one semester to build.
 
-- https://sensho.xyz
-- https://x.com/sensho
-- https://github.com/xa8zz
-- https://www.erdosproblems.com/872
-- https://www.vlr.gg/player/44803/spongeelfshirt
+- Product engineer, then staff engineer, at Latitude.io, the company behind AI Dungeon and Voyage, where he led Voyage’s monetization and agent projects.
+- Agent-assisted research on Erdős Problem 872: an April 2026 partial result credited on erdosproblems.com and on Terence Tao’s tracker of AI contributions to Erdős problems, then a July 2026 claimed proof of L(n) = o(n), with its game-theoretic core checked in Lean and the claim under community audit.
+- Built and open-sourced erdos-co-researcher, the agent research harness behind that work.
+- Ran a Roblox game studio whose games reached about 6 million visits.
+- Grew a finance TikTok from zero to 195k followers and 50M+ views in under two months, on markets knowledge he taught himself.
+- Peaked top 25 on the North American Valorant ranked leaderboard, reached Radiant in 8 seasons, and set the College VALORANT playoff record for highest ACS.
+- Placed top 100 in the Fortnite Champion Series (FNCS).
+
+Links: <https://sensho.xyz>, <https://x.com/sensho>, <https://github.com/xa8zz>, <https://www.erdosproblems.com/872>, <https://www.vlr.gg/player/44803/spongeelfshirt>
 
 ## License
 
