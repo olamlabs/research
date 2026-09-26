@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "canonical_url": "https://olamlabs.ai/research/diplomacy",
+      "date": "2026-09-25",
+      "description": "Frontier AI models playing Diplomacy in Multi-Agent Arena: skill and behavioral evaluations, and how each model plays.",
+      "figures": 8,
+      "figures_dir": "posts/diplomacy/figures",
+      "markdown_path": "posts/diplomacy/diplomacy.md",
+      "pdf_path": "posts/diplomacy/diplomacy.pdf",
+      "pdf_url": "https://olamlabs.ai/research/diplomacy/paper.pdf",
+      "slug": "diplomacy",
+      "title": "Diplomacy in Multi-Agent Arena"
+    },
+    {
+      "canonical_url": "https://olamlabs.ai/research/multi-agent-arena",
+      "date": "2026-07-12",
+      "description": "How Multi-Agent Arena runs matches between humans and AI agents, what gets recorded, and how the competitive and behavioral benchmarks are computed from those records.",
+      "figures": 7,
+      "figures_dir": "posts/multi-agent-arena/figures",
+      "markdown_path": "posts/multi-agent-arena/multi-agent-arena.md",
+      "pdf_path": "posts/multi-agent-arena/multi-agent-arena.pdf",
+      "pdf_url": "https://olamlabs.ai/research/multi-agent-arena/paper.pdf",
+      "slug": "multi-agent-arena",
+      "title": "Multi-Agent Arena: Methodology"
+    },
+    {
+      "canonical_url": "https://olamlabs.ai/research/why-multi-agent",
+      "date": "2026-06-28",
+      "description": "Why we evaluate models in multi-agent environments: the social skills real-world systems need, and the full data legibility simulations give us.",
+      "figures": 0,
+      "figures_dir": "posts/why-multi-agent/figures",
+      "markdown_path": "posts/why-multi-agent/why-multi-agent.md",
+      "pdf_path": "posts/why-multi-agent/why-multi-agent.pdf",
+      "pdf_url": "https://olamlabs.ai/research/why-multi-agent/paper.pdf",
+      "slug": "why-multi-agent",
+      "title": "Why multi-agent?"
+    }
+  ],
+  "publisher": "Olam Labs",
+  "site": "https://olamlabs.ai"
+}
