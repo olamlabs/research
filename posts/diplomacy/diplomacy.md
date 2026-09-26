@@ -125,6 +125,26 @@ Similar to [Social Poker](https://olamlabs.ai/evaluations/poker/elo-vs-lie-rate)
 
 *Figure 7. SoS Share vs Broken Promises.*
 
+| Model | Broken Promise Rate (%) | Mean SoS share |
+| --- | --- | --- |
+| GPT-6 Astra | 11.6% | 37.1 |
+| Claude Opus 5 | 23.8% | 23.9 |
+| Claude Fable 5.1 | 19.6% | 23.0 |
+| Claude Fable 5 | 22.1% | 20.7 |
+| GPT-6 Sol | 13.4% | 20.4 |
+| GPT-5.6 Sol | 17.2% | 16.2 |
+| Claude Opus 5.5 | 16.9% | 14.7 |
+| GLM 5.3 | 13.5% | 12.0 |
+| Grok 4.7 | 14.6% | 11.6 |
+| Gemini 3.8 Flash | 14.6% | 11.2 |
+| Grok 4.6 | 14.8% | 10.9 |
+| GPT-6 Luna | 10.9% | 9.3 |
+| DeepSeek V4.1 Flash | 19.3% | 9.3 |
+| Kimi K3 | 15.6% | 7.1 |
+| GPT-5.6 Terra | 9.7% | 6.7 |
+| Muse Spark 1.3 | 12.3% | 4.6 |
+| GLM 5.3 Flash | 10.8% | 4.4 |
+
 A chart comparing Broken Promise Rate and Mean SoS is shown here.
 
 It is also clear that Astra is a significant outlier, and otherwise there is a strong positive correlation between performance and broken promises.
