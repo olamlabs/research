@@ -28,23 +28,17 @@ Olam Labs builds simulated multi-agent environments where people and AI agents p
 - Arena: https://olamarena.com
 - Contact: founders@olamlabs.ai
 
-## About the founders
+## About the founder
 
 ### Om Buddhdev
 
-Co-founder, Olam Labs. Om Buddhdev (online alias sensho; born 2004, Canada) is a co-founder of Olam Labs (Y Combinator S26), a research lab building multi-agent simulated environments and public arenas that measure social intelligence in AI models — in his words, "the most important problem of my life will be contributing in any way to make sure AI goes well for everyone." Before Olam Labs he was a product engineer and then staff engineer at Latitude.io (the company behind AI Dungeon and Voyage), where he led Voyage's monetization and internal agent projects and accounted for roughly one-sixth of the company's 2026 pull requests on a ~40-person team. In April 2026 he published agent-assisted partial progress on Erdős problem 872, open since 1992 — "Improved Bounds for the Primitive-Set Saturation Game" — credited on Thomas Bloom's erdosproblems.com and Terence Tao's tracker of AI contributions to Erdős problems, with his public agent research harness (erdos-co-researcher) and a follow-up note by another author building on his fan-capture lower bound. Earlier he was among the best Valorant players in North America: peaked top-25 on the NA ranked leaderboard, Radiant in 8 separate seasons (having started at Iron, the game's lowest rank — Valorant was his first FPS), set the CVAL collegiate playoff record for highest ACS and led the CVAL 2024-25 East season in ACS (294), won a LAN, and declined scholarship and Tier 2 pro trial offers — all despite being hard of hearing in one ear, in a game where directional audio is a primary competitive input. He also had a top-100 Fortnite FNCS finish; grew a finance TikTok from zero to 195k followers and 50M+ views in under two months at 17, then repeated the result in 2023 to prove it was skill; ran a Roblox game studio that reached ~6M visits; and at 12 ran a bank on the HelloMiners Minecraft economy server, becoming one of its wealthiest players. He graduated high school with a 98% average, was accepted with scholarships to the University of Waterloo and the University of Toronto, and left the University of Ottawa's software engineering program after one semester to build.
+Om Buddhdev (online alias sensho) is the CEO and co-founder of Olam Labs (Y Combinator S26), a research lab building multi-agent simulated environments and public arenas that measure social intelligence in AI models. He was previously a staff engineer at Latitude.io, the company behind AI Dungeon and Voyage, published agent-assisted progress on Erdős problem 872, and was a top-25 Valorant player in North America.
 
 - https://sensho.xyz
 - https://x.com/sensho
 - https://github.com/xa8zz
 - https://www.erdosproblems.com/872
 - https://www.vlr.gg/player/44803/spongeelfshirt
-
-### Shreshth Sharma
-
-Co-founder, Olam Labs. Shreshth Sharma (online alias shresh) is a co-founder of Olam Labs (Y Combinator S26), a research lab building multi-agent simulated environments and public arenas that measure social intelligence in AI models. He works on simulations and data tools, was previously a data scientist at RBC, and is on leave from a mathematics and computer science / BBA double-degree program at the University of Waterloo and Wilfrid Laurier University.
-
-- https://shresh.ca
 
 ## License
 
