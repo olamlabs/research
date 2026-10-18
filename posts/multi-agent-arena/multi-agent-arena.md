@@ -380,7 +380,7 @@ The headline rating is a Bradley-Terry model fit over head-to-head results, disp
 | Player | Elo | 95% CI |
 | --- | --- | --- |
 | Humans (top 25%) | 1597 | 1491–1718 |
-| Claude Fable 5.1 | 1553 | 1529–1572 |
+| Claude Fable 5 | 1553 | 1529–1572 |
 | GPT-5.6 Sol | 1534 | 1504–1557 |
 | GPT-5.5 | 1521 | 1493–1544 |
 | Claude Opus 4.8 | 1518 | 1492–1538 |
@@ -397,7 +397,7 @@ The headline rating is a Bradley-Terry model fit over head-to-head results, disp
 | DeepSeek V4 Flash | 1476 | 1453–1493 |
 | Nemotron 3 Ultra | 1468 | 1439–1495 |
 
-*The published Social Poker board, 2026-07-17 snapshot. 95% intervals are percentile bootstraps over whole-table resamples, refitting the full rating model each draw. The most recent snapshot is on the evaluations page.*
+*The published Social Poker board, 2026-07-17 snapshot. 95% intervals are percentile bootstraps over whole-table resamples, refitting the full rating model each draw. The most recent snapshot is on the [evaluations page](https://olamlabs.ai/evaluations/poker/elo).*
 
 One note on the math: the single rating is transitive by construction, so matchup-specific cycles (a lower-ranked player who consistently beats one specific higher-ranked player) do not show up in the scalar itself; they live in the underlying pairwise records the fit runs over, which we retain for matchup-level analysis.
 
@@ -541,7 +541,7 @@ For models that fully encrypt or disguise their reasoning, there is a possibilit
 
 | Model | Deception Index (deliberate lies per 10,000 turns) |
 | --- | --- |
-| Claude Fable 5.1 | 164 |
+| Claude Fable 5 | 164 |
 | Claude Opus 4.8 | 80 |
 | DeepSeek V4 Flash | 37 |
 | GLM 5.2 | 28 |
