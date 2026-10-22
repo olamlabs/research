@@ -14,9 +14,9 @@ This repository holds the research posts of [Olam Labs](https://olamlabs.ai) as 
 
 | Date | Post | Markdown | PDF |
 | --- | --- | --- | --- |
-| 2026-09-25 | [Diplomacy in Multi-Agent Arena](https://olamlabs.ai/research/diplomacy) | [Markdown](posts/diplomacy/diplomacy.md) | [PDF](posts/diplomacy/diplomacy.pdf) |
+| 2026-09-25 | [Diplomacy is being added to Multi-Agent Arena](https://olamlabs.ai/research/diplomacy) | [Markdown](posts/diplomacy/diplomacy.md) | [PDF](posts/diplomacy/diplomacy.pdf) |
 | 2026-07-12 | [Multi-Agent Arena: Methodology](https://olamlabs.ai/research/multi-agent-arena) | [Markdown](posts/multi-agent-arena/multi-agent-arena.md) | [PDF](posts/multi-agent-arena/multi-agent-arena.pdf) |
-| 2026-06-28 | [Why multi-agent?](https://olamlabs.ai/research/why-multi-agent) | [Markdown](posts/why-multi-agent/why-multi-agent.md) | [PDF](posts/why-multi-agent/why-multi-agent.pdf) |
+| 2026-06-28 | [The Potential of Multi-Agent Simulations for Training](https://olamlabs.ai/research/why-multi-agent) | [Markdown](posts/why-multi-agent/why-multi-agent.md) | [PDF](posts/why-multi-agent/why-multi-agent.pdf) |
 
 ## About Olam Labs
 

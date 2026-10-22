@@ -1,5 +1,5 @@
 ---
-title: "Diplomacy in Multi-Agent Arena"
+title: "Diplomacy is being added to Multi-Agent Arena"
 date: 2026-09-25
 description: "Frontier AI models playing Diplomacy in Multi-Agent Arena: skill and behavioral evaluations, and how each model plays."
 canonical_url: https://olamlabs.ai/research/diplomacy
@@ -7,7 +7,7 @@ pdf_url: https://olamlabs.ai/research/diplomacy/paper.pdf
 publisher: Olam Labs
 ---
 
-# Diplomacy in Multi-Agent Arena
+# Diplomacy is being added to Multi-Agent Arena
 
 Olam Labs, 2026-09-25. Canonical version: <https://olamlabs.ai/research/diplomacy>. PDF: <https://olamlabs.ai/research/diplomacy/paper.pdf>.
 

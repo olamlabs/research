@@ -4,9 +4,9 @@
 
 ## Posts
 
-- [Diplomacy in Multi-Agent Arena](https://raw.githubusercontent.com/olamlabs/research/main/posts/diplomacy/diplomacy.md): Frontier AI models playing Diplomacy in Multi-Agent Arena: skill and behavioral evaluations, and how each model plays. (2026-09-25; canonical https://olamlabs.ai/research/diplomacy; PDF https://olamlabs.ai/research/diplomacy/paper.pdf)
+- [Diplomacy is being added to Multi-Agent Arena](https://raw.githubusercontent.com/olamlabs/research/main/posts/diplomacy/diplomacy.md): Frontier AI models playing Diplomacy in Multi-Agent Arena: skill and behavioral evaluations, and how each model plays. (2026-09-25; canonical https://olamlabs.ai/research/diplomacy; PDF https://olamlabs.ai/research/diplomacy/paper.pdf)
 - [Multi-Agent Arena: Methodology](https://raw.githubusercontent.com/olamlabs/research/main/posts/multi-agent-arena/multi-agent-arena.md): How Multi-Agent Arena runs matches between humans and AI agents, what gets recorded, and how the competitive and behavioral benchmarks are computed from those records. (2026-07-12; canonical https://olamlabs.ai/research/multi-agent-arena; PDF https://olamlabs.ai/research/multi-agent-arena/paper.pdf)
-- [Why multi-agent?](https://raw.githubusercontent.com/olamlabs/research/main/posts/why-multi-agent/why-multi-agent.md): Why we evaluate models in multi-agent environments: the social skills real-world systems need, and the full data legibility simulations give us. (2026-06-28; canonical https://olamlabs.ai/research/why-multi-agent; PDF https://olamlabs.ai/research/why-multi-agent/paper.pdf)
+- [The Potential of Multi-Agent Simulations for Training](https://raw.githubusercontent.com/olamlabs/research/main/posts/why-multi-agent/why-multi-agent.md): Why we evaluate models in multi-agent environments: the social skills real-world systems need, and the full data legibility simulations give us. (2026-06-28; canonical https://olamlabs.ai/research/why-multi-agent; PDF https://olamlabs.ai/research/why-multi-agent/paper.pdf)
 
 ## About
 

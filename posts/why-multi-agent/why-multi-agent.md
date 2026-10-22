@@ -1,5 +1,5 @@
 ---
-title: "Why multi-agent?"
+title: "The Potential of Multi-Agent Simulations for Training"
 date: 2026-06-28
 description: "Why we evaluate models in multi-agent environments: the social skills real-world systems need, and the full data legibility simulations give us."
 canonical_url: https://olamlabs.ai/research/why-multi-agent
@@ -7,7 +7,7 @@ pdf_url: https://olamlabs.ai/research/why-multi-agent/paper.pdf
 publisher: Olam Labs
 ---
 
-# Why multi-agent?
+# The Potential of Multi-Agent Simulations for Training
 
 Olam Labs, 2026-06-28. Canonical version: <https://olamlabs.ai/research/why-multi-agent>. PDF: <https://olamlabs.ai/research/why-multi-agent/paper.pdf>.
 
